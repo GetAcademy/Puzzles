@@ -1,3 +1,3 @@
 ﻿using Puzzles;
 
-Exercise2_2.Run();
+Exercise3_3.Run();

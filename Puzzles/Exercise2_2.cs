@@ -3,9 +3,6 @@
     internal class Exercise2_2
     {
         /*
-
-        Pause til 10:30
-
             2-2 Or how about:
                ##
               ####
